@@ -1,2 +1,1 @@
-# recipide
-solo project
+hey gurl sup

@@ -1,0 +1,26 @@
+{
+  "name": "recipide",
+  "version": "1.0.0",
+  "description": "redipide 1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcbell51/recipide.git"
+  },
+  "author": "Wyatt Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcbell51/recipide/issues"
+  },
+  "homepage": "https://github.com/wcbell51/recipide#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "sequelize": "^6.3.3"
+  }
+}
