@@ -1,0 +1,2 @@
+# recipide
+solo project
